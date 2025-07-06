@@ -2,7 +2,15 @@
 
 ## Overview
 
-This project is a simple example of how to use the FastMCP library to create a GitHub PR review server.
+This project is a FastMCP based GitHub PR Review Server.
+
+## Features
+
+- List PRs in a repository
+- Get diff for a specific PR
+- Suggest comments for a PR
+- Review a PR
+- 
 
 ## Setup
 
